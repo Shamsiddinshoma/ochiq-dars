@@ -1,0 +1,131 @@
+.container{
+    width: 1400px;
+    height: 1000px;
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+.reklamaDisplay{
+    display: none;
+    background-color: aqua;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid;
+}
+
+
+
+.activeDisplay{
+    display: block;
+}
+
+
+.btn1{
+    display: none;
+    /* width: 100px; */
+    /* height: 40px; */
+}
+.activex{
+    display: block;
+}
+
+.noneActive{
+    display: none;
+}
+
+
+.burger-continer{
+    flex-direction: column;
+    display: flex;
+    padding-left: 330px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid red;
+}
+
+
+.img1{
+    display: none;
+    width: 500px;
+    height: 100px;
+}
+.img2{
+    display: none;
+    width: 500px;
+    height: 100px;
+}
+.img3{
+    display: none;
+    width: 500px;
+    height: 100px;
+}
+.img4{
+    display: none;
+    width: 500px;
+    height: 100px;
+}
+.img5{
+    display: none;
+    width: 500px;
+    height: 100px;
+}
+.img6{
+    display: none;
+    width: 500px;
+    height: 100px;
+}
+
+.btn2{
+    border-radius: 15px;
+    border: none;
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    margin-left: 160px;
+    margin-top: 890px;
+    position: absolute;
+}
+
+.img16{
+    display: block;
+}
+
+.img15{
+    display: block;
+}
+
+.img14{
+    display: block;
+}
+
+.img13{
+    display: block;
+}
+
+.img12{
+    display: block;
+}
+
+.img11{
+    display: block;
+}
+
+
+.products{
+    padding-left: 15px;
+    margin-left: -285px;
+    margin-top: 800px;
+    width:1000px;
+    height: 50px;
+    border: 3px solid red;
+    border-radius: 15px;
+    display: flex;
+    position: absolute;
+}
+
+.prod{
+    margin-left: 15px;
+    width: 100px;
+    height: 50px;
+}
